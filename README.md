@@ -1,4 +1,4 @@
-# brainpan-bof
+# Brainpan Buffer Overflow
 A buffer overflow exploit for brianpan
 
 ## References
